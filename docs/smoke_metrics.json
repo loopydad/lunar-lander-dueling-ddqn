@@ -1,0 +1,17 @@
+{
+  "evaluation_returns": [
+    -331.78659263942615,
+    -53.376416049390514,
+    -56.36649904880838
+  ],
+  "evaluation_mean": -147.17650257920835,
+  "evaluation_std": 130.54475391761795,
+  "evaluation_seed_start": 100042,
+  "evaluation_episodes": 3,
+  "max_episode_steps": 200,
+  "training_episodes": 12,
+  "environment_steps": 1149,
+  "gradient_updates": 1086,
+  "target_syncs": 1,
+  "training_last100_mean": -183.88630660045513
+}
